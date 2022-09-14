@@ -1,5 +1,5 @@
 {
-	"name": "fhsinchy/inspire",
+	"name": "dr-roshyara/inspire",
 	"description": "\"first laravel packages\"",
 	"autoload": {
 		"psr-4": {
